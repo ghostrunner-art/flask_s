@@ -1,0 +1,2 @@
+class Set():
+    DEBUG = False
